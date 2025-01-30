@@ -7,6 +7,9 @@ Software Developer
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [Artiligenz](http://panomartdev.vercel.app/)
 *   ✉️  You can contact me at [artiligenz@gmail.com](mailto:artiligenz@gmail.com)
+*   🖥️  Frontend Skills : HTML5, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, Reactjs, Nextjs, Vuejs, Nuxtjs
+*   ⚙️ Backend Skills : Nodejs, Expressjs, SpringBoot
+*   ☁️ Deployment Tools : Vercel, Netlify
 
 ### Socials
 
